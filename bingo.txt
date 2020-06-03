@@ -1,2 +1,2 @@
 Hello World!
-Demo Github Project on demo branch
+Demo Github Project
