@@ -1,0 +1,142 @@
+header .navbar .navbar-brand {
+    font-size: 30px;
+    text-transform: uppercase;
+    font-family: 'Inconsolata', monospace;
+}
+
+header .navbar-nav li {
+    padding: 0 50px;
+}
+
+header .navbar-nav li a {
+    color: #626262 !important;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-family: 'Playfair Display', serif;
+}
+
+/* post section */
+
+.post h6 {
+    color: #c8c3b9;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 25px;
+}
+
+.post h1 {
+    color: #626262;
+    font-size: 30px;
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 35px;
+}
+
+.post p {
+    line-height: 1.7em;
+    color: #626262;
+    font-size: 14px;
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 60px;
+}
+
+.post a {
+    color: #c8c3b9;
+    font-size: 14px;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-family: 'Playfair Display', serif;
+}
+
+/* Blog Post */
+
+.blog h6 {
+    color: #c8c3b9;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 25px;
+}
+
+.blog h1 {
+    color: #626262;
+    font-size: 30px;
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 35px;
+}
+
+.blog p {
+    line-height: 1.7em;
+    color: #626262;
+    font-size: 14px;
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 60px;
+}
+
+/* Newsletter section */
+.newsletter {
+    background-color: #f0f0f0;
+    padding: 70px 0;
+}
+
+.newsletter .heading {
+    font-family: 'Playfair Display', serif;
+    color: #626262;
+    font-size: 30px;
+    margin-bottom: 80px;
+}
+
+.newsletter .input-group {
+    border-top: hidden;
+    border-right: hidden;
+    border-left: hidden;
+    border-bottom: groove;
+}
+
+.newsletter .form-custom,
+.input-group-text {
+    font-family: 'Playfair Display', serif;
+    font-size: 14px;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    box-shadow: none !important;
+}
+
+.input-group-text button{
+    color: #626262 !important;
+    border: none;
+}
+
+.input-group-text button:focus{
+    outline: none;
+}
+
+.newsletter input:focus {
+    outline: none;
+    box-shadow: none !important;
+}
+
+/* blog-extended */
+.blog .col-lg-2 .btn{
+    color:#626262;
+    font-family: 'Playfair Display', serif;
+    font-size: 14px;
+    border: 1px solid #626262;
+    padding: 10px 20px;
+    margin-bottom:1370px;
+}
+
+/* footer */
+
+.footer{
+    padding: 25px 0;
+    background-color: #f0f0f0;
+}
+
+.footer ul li a{
+    font-size: 14px;
+    font-family: 'Playfair Display', serif;
+    color: #626262 !important;
+}
+
